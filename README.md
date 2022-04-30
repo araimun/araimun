@@ -20,10 +20,14 @@
 
 ```javascript
 const ara = {
-  pronouns: "she" | "her" | "hers",
-  code: [Python, Java, SQL, JavaScript, HTML, CSS],
-  tools: [Airflow, Spark, FastAPI, Docker, Terraform, SQLAlchemy, Alembic],
-  challenge: "Currently taking a certification for Azure Data Analytics & AI"
+  pronouns: ['she', 'her', 'hers'],
+  languages: {
+    native: 'Spanish',
+    advanced: 'English'
+  },
+  code: ['Python', 'Java', 'SQL', 'JavaScript', 'HTML', 'CSS'],
+  tools: ['Airflow', 'Spark', 'FastAPI', 'Docker', 'Terraform', 'SQLAlchemy', 'Alembic'],
+  challenge: 'Currently taking a certification for Azure Data Analytics & AI'
 }
 ```
 </br>
