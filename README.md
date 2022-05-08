@@ -27,7 +27,7 @@ const ara = {
   },
   code: ['Python', 'Java', 'SQL', 'JavaScript', 'HTML', 'CSS'],
   tools: ['Airflow', 'Spark', 'FastAPI', 'Docker', 'Terraform', 'SQLAlchemy', 'Alembic'],
-  challenge: 'Currently taking a certification for Azure Data Analytics & AI'
+  challenge: 'Building my first web portfolio.'
 }
 ```
 </br>
